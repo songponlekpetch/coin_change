@@ -4,7 +4,7 @@ Follow this steps for run program
 - source env/bin/activate
 - cd src
 - python main.py
-<p> If you would like to test you can run unittest library on tests folder </p>
+<p> If you would like to test, you can run unittest library on tests folder </p>
 <br/>
 <p>Example</p>
 <table style="width:100%">
